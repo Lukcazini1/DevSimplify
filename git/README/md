@@ -1,0 +1,24 @@
+# Git — Simplified
+
+Git is a free tool that helps you **save versions of your project**, so you can go back if something breaks. Think of it like Google Docs version history—but for code and files.
+
+## Why You Should Care
+
+- It tracks your progress.
+- It lets you undo mistakes.
+- It helps you work with others without messing up each other’s work.
+
+## How to Install Git
+
+- **Windows:** Download it from [git-scm.com](https://git-scm.com/download/win) and follow the setup.
+- **macOS:** Open Terminal and run:  
+  `brew install git` *(requires Homebrew)*
+- **Linux (Ubuntu):**  
+  `sudo apt install git`
+
+## Getting Started
+
+After installing, try this in your terminal:
+
+```bash
+git --version
